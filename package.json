@@ -1,0 +1,38 @@
+{
+  "name": "tinyscore",
+  "version": "1.0.0",
+  "description": "JavaScript's functional tiny programming helper library.",
+  "main": "tinyscore.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test-node",
+    "test-node": "qunit-cli test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenzhao/tinyscore.git"
+  },
+  "keywords": [
+    "underscore",
+    "tinyscore",
+    "mobile",
+    "zpto",
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "damon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenzhao/tinyscore/issues"
+  },
+  "homepage": "https://github.com/stephenzhao/tinyscore#readme",
+  "dependencies": {
+    "qunit-cli": "^0.2.0",
+    "qunitjs": "^1.20.0"
+  }
+}
