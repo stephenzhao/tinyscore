@@ -1,0 +1,1 @@
+Tinyscore.js is a tiny functional lib of underscore.
